@@ -1,24 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-08T18:16:02.103Z</id>
+    <id>urn:2021-05-08T19:54:10.717Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-08T18:16:02.103Z</updated>
+    <updated>2021-05-08T19:54:10.717Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[v1.5.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.5.0"/>
-        <updated>2021-05-08T05:16:47.000Z</updated>
-        <summary type="html"><![CDATA[Added: Atom feed generator
-Added: Customizable site title
-Added: Copy all files from static directory to the root of the site.
-Changed: Favicon, css, and js assets now existing at site root level.
-Chore: Excluded testing files from repo.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
         <id>609558382cd0545b5e943c6f</id>
@@ -30,6 +16,31 @@ Chore: Excluded testing files from repo.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Changelog 439: Elixir meets machine learning]]></title>
+        <id>changelog.com/1/1337</id>
+        <link href="https://changelog.com/podcast/439"/>
+        <updated>2021-05-07T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week Elixir creator José Valim joins Jerod and Practical AI’s Daniel Whitenack to discuss Numerical Elixir, his new project that’s bringing Elixir into the world of machine learning. We discuss why José chose this as his next direction, the team’s layered approach, influences and collaborators on this effort, and their awesome collaborative notebook project that’s built on Phoenix LiveView.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappe…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hosting SQLite databases on GitHub Pages]]></title>
+        <id>changelog.com/news/RwVp</id>
+        <link href="https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/"/>
+        <updated>2021-05-07T17:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The benefits of such a setup are numerous, especially for small sites and side projects:
+Hosting a static website is much easier than a “real” server - there’s many free and reliable options (like GitHub, GitLab Pages, Netlify, etc), and it scales to basically infinity without any effort.
+The how is also super interesting:
+So how do you use a database on a static file hoster? Firstly, SQLite (written in C) is compiled to WebAssembly. SQLite can be compiled with emscripten without any modifications, and the …]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be]]></title>
         <id>609551f02cd0545b5e943bc0</id>
         <link href="https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/"/>
@@ -37,6 +48,34 @@ Chore: Excluded testing files from repo.]]></summary>
         <summary type="html"><![CDATA[Any concept that we don't fully understand can be scary at first. Recursion is a topic that programming students don't learn right away. But that doesn't mean it needs to be scary or cause anxiety. In fact, recursion is a concept that we can define rather simply. According to Wikipedia:]]></summary>
         <author>
             <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Party 174: For a more dope web!]]></title>
+        <id>changelog.com/6/1340</id>
+        <link href="https://changelog.com/jsparty/174"/>
+        <updated>2021-05-07T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Paul Bakaus from Google Web Creators joins Amal, Nick, &amp; Jerod to talk about this new initiative to promote, educate, and equip people to create on the web.
+Along the way we discuss Web Stories, AMP, RSS, Google Reader, and more, of course. Join us: for a more dope web!
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just op…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a distributed turn-based game system in Elixir]]></title>
+        <id>changelog.com/news/7mwa</id>
+        <link href="https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/"/>
+        <updated>2021-05-07T14:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Eriksen:
+Many great Phoenix LiveView examples exist. They often show the ease and power of LiveView but stop at multiple browsers talking to a single web server. I wanted to go further and create a fully clustered, globally distributed, privately networked, secure application. What’s more, I wanted to have fun doing it.
+So I set out to see if I could create a fully distributed, clustered, privately networked, global game server system. Spoiler Alert: I did.
+I like the way he frames his experience. He s…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -61,6 +100,18 @@ The post Links on Typography appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crazy new ideas]]></title>
+        <id>changelog.com/news/2O0m</id>
+        <link href="http://paulgraham.com/newideas.html"/>
+        <updated>2021-05-07T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Paul Graham on preposterous sounding ideas and how easy they are to dismiss:
+Most implausible-sounding ideas are in fact bad and could be safely dismissed. But not when they’re proposed by reasonable domain experts. If the person proposing the idea is reasonable, then they know how implausible it sounds. And yet they’re proposing it anyway. That suggests they know something you don’t. And if they have deep domain expertise, that’s probably the source of it.
+Such ideas are not merely unsafe to dismiss, but d…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -142,6 +193,34 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go Time 178: What makes wonderful workshops?]]></title>
+        <id>changelog.com/2/1210</id>
+        <link href="https://changelog.com/gotime/178"/>
+        <updated>2021-05-06T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Perspectives from both the workshop leaders perspective, as well as the workshop participants. What are some top tips, things to watch out for, and ways to innovate and keep your participants engaged, especially in the remote world we are now living in.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+Teleport – Quickly access any resource anywhere using a Unified Access Plane that consolidates access controls and auditing across a…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slidev – presentation slides for developers]]></title>
+        <id>changelog.com/news/X5Lq</id>
+        <link href="https://sli.dev/"/>
+        <updated>2021-05-06T14:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The motivation for building Slidev:
+I always found myself spending too much time styling and layouting slides when using apps like PowerPoint / Keynote / Google Slides. Whenever I need to share code snippets, I would also need to use other tools to generate the highlighted code as images over and over again.
+So as a frontend developer, why not solve it the way that fits better with what I am good at?
+Looks slick: themeable, hackable, and you write your slides in Markdown. 👌
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Custom State Pseudo-Classes in Chrome]]></title>
         <id>https://css-tricks.com/?p=339586</id>
         <link href="https://css-tricks.com/custom-state-pseudo-classes-in-chrome/"/>
@@ -199,6 +278,30 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[An extension that automatically removes tracking elements from URLs]]></title>
+        <id>changelog.com/news/0OjO</id>
+        <link href="https://github.com/ClearURLs/Addon/"/>
+        <updated>2021-05-05T15:40:00.000Z</updated>
+        <summary type="html"><![CDATA[ClearURLs is an add-on based on the new WebExtensions technology and is optimized for Firefox and Chrome based browsers.
+This extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet, which is regularly updated by us and can be found here.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wormhole – Simple, fast, private file sharing ✨]]></title>
+        <id>changelog.com/news/Z1Em</id>
+        <link href="https://wormhole.app/?ref=changelog"/>
+        <updated>2021-05-05T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Wormhole lets you share files with end-to-end encryption and a link that automatically expires. So you can keep what you share private and make sure your stuff doesn’t stay online forever.
+Our #1 goal is speed – you should be able to get a share link in less than 2 seconds with the absolute minimum number of clicks.
+That’s why Wormhole supports instant file streaming. There’s no need to wait for your files to finish uploading before you can copy the link and send it to your recipient. The recipient can star…]]></summary>
+        <author>
+            <name>Feross Aboukhadijeh</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is Vendor Prefixing Dead?]]></title>
         <id>https://css-tricks.com/?p=339518</id>
         <link href="https://css-tricks.com/is-vendor-prefixing-dead/"/>
@@ -212,6 +315,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Plot – a JS library to help you quickly visualize tabular data]]></title>
+        <id>changelog.com/news/pXPe</id>
+        <link href="https://observablehq.com/@observablehq/plot"/>
+        <updated>2021-05-05T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[This comes from Mike Bostock (D3.js) who knows a thing or two about visualizing data in the browser.
+It has a concise and (hopefully) memorable API to foster fluency — and plenty of examples to learn from and copy-paste.
+
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reducing HTML Payload With Next.js (Case Study)]]></title>
         <id>https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/"/>
@@ -219,113 +335,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[This article showcases a case study of Bookaway’s landing page performance. We’ll see how taking care of the props we send to Next.js pages can make loading times and Web Vitals better.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Liran Cohen)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.4.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.4.0"/>
-        <updated>2021-05-05T07:20:50.000Z</updated>
-        <summary type="html"><![CDATA[Added: Basic theme customization: Demo | Source. See documentation.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.1"/>
-        <updated>2021-05-05T05:19:57.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Avoid crwalers.
-Fixed: Error logging from XML parser.
-Fixed: Typo in docs.
-Thank you: @dym-sh, @tabokie, @cheese1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.3.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.3.0"/>
-        <updated>2021-05-05T05:19:26.000Z</updated>
-        <summary type="html"><![CDATA[Added: Customize cache lifespan with cacheMaxDays property in osmosfeed.yaml.
-Added: Documentation for osmosfeed.yaml.
-Fixed: More intuitive logging during build.
-Chore: Refactored parameter passing for enrich step.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.3]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.3"/>
-        <updated>2021-05-05T05:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Changed: favicon update.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.2.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.2.1"/>
-        <updated>2021-05-05T05:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Added: Display CLI version in footer.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.6]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.6"/>
-        <updated>2021-05-05T05:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: The output website didn't have favicon.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.1"/>
-        <updated>2021-05-05T05:18:27.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: Item description didn't use the description property from feed item.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.1.0]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.1.0"/>
-        <updated>2021-05-05T05:17:37.000Z</updated>
-        <summary type="html"><![CDATA[Added: MIT license
-Added: cache.json is stamped with the version of the builder. This allows future builder with breaking change to ignore incompatible cache.
-Added: Feed source retry on fetch error (3 times total, 15 seconds timeout).
-Added: Item enrichment retry on fetch error (3 times total, 15 seconds timeout).
-Added: Console log for cache restore and update behavior.
-Added: npx command: npx osmosfeed
-Changed: Improved console log that breaks down rendered item count into "new" and "cached".
-Fixed: Item…]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.0.1]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.0.1"/>
-        <updated>2021-05-05T05:16:07.000Z</updated>
-        <summary type="html"><![CDATA[Changed: Runtime dependencies are moved out of devDependencies. This is not a breaking change, but to receive performance benefit, you need to make sure @osmoscraft/osmosfeed is listed as dependencies instead of devDependencies in the package.json of your rss reader site.
-Changed: Build target from node12 to node14.
-Changed: Switched to a more robust rss parser: rss-parser
-Fixed: RSS 1.0 feed &lt;dc:date&gt; was not parsed as publish date.
-Chore: npm dependencies version updates.]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
     <entry>
@@ -373,6 +382,16 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Practical AI 132: Generating "hunches" using smart home data 🏠]]></title>
+        <id>changelog.com/7/1349</id>
+        <link href="https://changelog.com/practicalai/132"/>
+        <updated>2021-05-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Smart home data is complicated. There are all kinds of devices, and they are in many different combinations, geographies, configurations, etc. This complicated data situation is further exacerbated during a pandemic when time series data seems to be filled with anomalies. Evan Welbourne joins us to discuss how Amazon is synthesizing this disparate data into functionality for the next generation of smart homes. He discusses the challenges of working with smart home technology, and he describes how they devel…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A Guide To Undoing Mistakes With Git]]></title>
         <id>https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/</id>
         <link href="https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/"/>
@@ -380,6 +399,19 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[No matter how experienced you are, mistakes are an inevitable part of software development. But we can learn to repair them! And this is what we'll be looking at in this two-part series: how to undo mistakes using Git.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Tobias Günther)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A collection of services with great free tiers for developers on a budget]]></title>
+        <id>changelog.com/news/WyWW</id>
+        <link href="https://github.com/255kb/stack-on-a-budget"/>
+        <updated>2021-05-04T14:23:00.000Z</updated>
+        <summary type="html"><![CDATA[This repository offers a collection of services with great free tiers for developers on a budget. Because not everyone has 20$ per month to spend on app or database hosting for every single side-project.
+Nowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.
+I got a kick out of their FTDD acronym: Free Tier Driven Development
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -404,6 +436,17 @@ The post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regular expression matching at scale with Hyperscan]]></title>
+        <id>changelog.com/news/1OJP</id>
+        <link href="https://geekmonkey.org/regular-expression-matching-at-scale-with-hyperscan/"/>
+        <updated>2021-05-04T13:37:00.000Z</updated>
+        <summary type="html"><![CDATA[This article provides an in-depth view and comparison on modern regular expression engines. Hyperscan and RE2 come out on top and offer great scalability for large scale regex applications.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Fabian Becker</name>
         </author>
     </entry>
     <entry>
@@ -449,6 +492,53 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Clarity on Rails' governance]]></title>
+        <id>changelog.com/news/VR4e</id>
+        <link href="https://weblog.rubyonrails.org/2021/5/2/rails-governance/"/>
+        <updated>2021-05-03T16:19:08.000Z</updated>
+        <summary type="html"><![CDATA[In the wake of recent events at Basecamp (and DHH’s continued involvement with Ruby on Rails), many have questioned the governance process for Rails. This post from “The Rails Team” is meant to “clarify how the team is structured,” and how they operate.
+…no one on the Core team, or their employers, have sole control over the framework or community. There is no individual or subset of individuals who have power to enact policies unilaterally in the Rails community spaces that we operate (for example on issue…]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My favorite (command line) one liners]]></title>
+        <id>changelog.com/news/yXnb</id>
+        <link href="https://muhammadraza.me/2021/Oneliners/"/>
+        <updated>2021-05-03T16:01:29.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to Muhammad Raza for sharing some of his favorite command line one liners to make his workflow productive and more efficient.
+As a regular Linux user, I have been using commandline extensively to perform daily tasks such as creating files, navigating through directories, moving files and editing files using vim.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A simple and efficient way to access various stats in a Git repo]]></title>
+        <id>changelog.com/news/Jq90</id>
+        <link href="https://github.com/arzzen/git-quick-stats"/>
+        <updated>2021-05-03T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Any git repository may contain tons of information about commits, contributors, and files. Extracting this information is not always trivial, mostly because there are a gadzillion options to a gadzillion git commands – I don’t think there is a single person alive who knows them all. Probably not even Linus Torvalds himself :).
+
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remembering Dan Kaminsky]]></title>
+        <id>changelog.com/news/QRJN</id>
+        <link href="https://thenewstack.io/remembering-dan-kaminsky/"/>
+        <updated>2021-05-03T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[David Cassel, on The New Stack:
+Widely-respected security expert Dan Kaminsky passed away on April 23 from diabetic ketoacidosis at the age of 42. His considerable legacy went beyond expertise with a rare and memorable kindness.
+I met Dan very briefly at ShmooCon back in 2004. His kindness was memorable, for sure, but the thing I remember most was just how larger-than-life he was to me at the time. The guy contributed so much to the infosec community and yet remained humble and kind despite it all. It was s…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Swipey Image Grids]]></title>
         <id>https://css-tricks.com/?p=339384</id>
         <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
@@ -458,6 +548,19 @@ The post Swipey Image Grids appeared first on CSS-Tricks.
 You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <author>
             <name>Chris Coyier</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A web-based RSS reader running entirely from your GitHub repo]]></title>
+        <id>changelog.com/news/8XdL</id>
+        <link href="https://github.com/osmoscraft/osmosfeed"/>
+        <updated>2021-05-03T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The feed is hosted on GitHub Pages (which means it’s public to all) and is static until it gets rebuilt. Building is done periodically via a GitHub Action; configuration is via a YAML file (It’d be cooler if you could import an OPML instead). Even if it’s not something you’d use, I think this project is interesting for two reasons:
+It’s part of a “GitHub as Stack” meta-trend
+It promotes RSS, which is one of the web’s great treasures
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -471,6 +574,45 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JS Party 173: Blasting off with Apollo 🚀]]></title>
+        <id>changelog.com/6/1327</id>
+        <link href="https://changelog.com/jsparty/173"/>
+        <updated>2021-04-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KBall, Amal, and Feross are joined by special guest Jenn Creighton to talk about all things Apollo. How does Apollo fit into the GraphQL ecosystem, what’s the next big thing, and when would you choose to use it?
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ sk…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ugit helps you undo your last git command with grace]]></title>
+        <id>changelog.com/news/8X6L</id>
+        <link href="https://github.com/Bhupesh-V/ugit"/>
+        <updated>2021-04-30T14:16:00.000Z</updated>
+        <summary type="html"><![CDATA[A handy shell script to help you undo all the things (commits, pushes, pulls, you name it).
+
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQLite is the only database you will ever need in most cases]]></title>
+        <id>changelog.com/news/AR24</id>
+        <link href="https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html"/>
+        <updated>2021-04-30T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[SQLite is so hot right now.
+Even if you start out small and later need to upscale, as long as your web application can run on the same machine as the database, which it can in 99% of the time, you can just upgrade the hardware to a beefier machine and keep business as usual.
+The only time you need to consider a client-server setup is…
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[May Is In The Air (2021 Wallpapers Edition)]]></title>
         <id>https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/</id>
         <link href="https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/"/>
@@ -478,6 +620,53 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new collection of wallpapers is for you. Designed with love by the community for the community, the wallpapers are available with and without a calendar for May 2021.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Time 177: Building startups with Go]]></title>
+        <id>changelog.com/2/1214</id>
+        <link href="https://changelog.com/gotime/177"/>
+        <updated>2021-04-29T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Startups are all about iterating quickly, building MVPs, and finding that elusive product market fit, so how does Go fit into that picture? Is Go a good choice for startups, or is it exclusively for the larger corporations? In this episode Jon is joined by four startup founders to learn about their experience building a startup with Go.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – Learn by doing — Python, d…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encrypting and decrypting files with OpenSSL]]></title>
+        <id>changelog.com/news/Oozm</id>
+        <link href="https://opensource.com/article/21/4/encryption-decryption-openssl"/>
+        <updated>2021-04-29T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A solid primer on using openssl to encrypt all the things, which in this day and age is a skill that shoiuld be taught in secondary school right alongside how to bake a cake and change a tire.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disentangling AI, machine learning, and deep learning]]></title>
+        <id>changelog.com/news/4Om4</id>
+        <link href="https://www.exxactcorp.com/blog/Deep-Learning/difference-between-ai-machine-learning-and-deep-learning"/>
+        <updated>2021-04-29T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[This article starts with a concise description of the relationship and differences of these 3 commonly used industry terms. Then it digs into the history.
+Deep learning is a subset of machine learning, which in turn is a subset of artificial intelligence, but the origins of these names arose from an interesting history. In addition, there are fascinating technical characteristics that can differentiate deep learning from other types of machine learning…essential working knowledge for anyone with ML, DL, or …]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Questions to ask when making Build vs Buy decisions]]></title>
+        <id>changelog.com/news/VRNN</id>
+        <link href="https://shekhargulati.com/2021/03/06/questions-to-ask-when-making-build-versus-buy-decision/"/>
+        <updated>2021-04-29T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Most software companies have to make decisions on whether to build a custom software or buy it from a vendor. In the last year I read many good articles on the web that helped shape my thoughts on how to approach these discussions. This article lists of questions that I have started to use to understand and make these decisions.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Shekhar Gulati</name>
         </author>
     </entry>
     <entry>
@@ -491,6 +680,41 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How often do people actually copy/paste from Stack Overflow? Now we know]]></title>
+        <id>changelog.com/news/DnRb</id>
+        <link href="https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/"/>
+        <updated>2021-04-28T18:37:00.000Z</updated>
+        <summary type="html"><![CDATA[April Fool’s may be over, but once we set up a system to react every time someone typed Command+C, we realized there was also an opportunity to learn about how people use our site. Here’s what we found.
+TLDR; one in four users copy something within five minutes of hitting a page. But this blog post (and accompanying podcast episode) goes deep into the details and lays it all out for you with pretty charts.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub blocks FLoC across all of GitHub Pages]]></title>
+        <id>changelog.com/news/kO7g</id>
+        <link href="https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/"/>
+        <updated>2021-04-28T16:07:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a solid move in protecting people’s privacy, especially for those completely unaware. Sounds like WordPress is considering the same  and a helpful Hacker News commenter typed up how to accomplish it on a bevy of popular web servers.
+Related: I just deployed this to changelog.com as well. 😎
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What really happened at Basecamp]]></title>
+        <id>changelog.com/news/lj3b</id>
+        <link href="https://www.platformer.news/p/-what-really-happened-at-basecamp"/>
+        <updated>2021-04-28T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Casey Newton interviewed a half-dozen Basecamp employees, as well as David Heinemeier Hansson (Basecamp co-founder) to write this account of recent events.
+How a list of “funny” customer names triggered an internal reckoning. The controversy that embroiled enterprise software maker Basecamp this week began more than a decade ago, with a simple list of customers. Around 2009, Basecamp customer service representatives began keeping a list of names that they found funny. More than a decade later, current emplo…]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meet Image Optimization, A New Smashing Book By Addy Osmani]]></title>
         <id>https://smashingmagazine.com/2021/04/image-optimization-pre-release/</id>
         <link href="https://smashingmagazine.com/2021/04/image-optimization-pre-release/"/>
@@ -498,6 +722,53 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[The cat is out! For the last year, we’ve been working with Addy Osmani on a new Smashing Book all around image optimization. And now it’s here. Meet “Image Optimization”, our practical modern guide to delivering high-quality images on the web with the best performance.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Practical AI 131: Mapping the world]]></title>
+        <id>changelog.com/7/1347</id>
+        <link href="https://changelog.com/practicalai/131"/>
+        <updated>2021-04-27T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ro Gupta from CARMERA teaches Daniel and Chris all about road intelligence.  CARMERA maintains the maps that move the world, from HD maps for automated driving to consumer maps for human navigation.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ skills sharp at…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WSLg brings Linux GUI apps to Windows in a fully integrated fashion]]></title>
+        <id>changelog.com/news/EZed</id>
+        <link href="https://github.com/microsoft/wslg"/>
+        <updated>2021-04-27T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[WSLg provides an integrated experience for developers, scientists or enthusiasts that prefer or need to run Windows on their PC but also need the ability to run tools or applications which works best, or exclusively, in a Linux environment. While users can accomplish this today using a multiple system setup, with individual PC dedicated to Windows and Linux, virtual machine hosting either Windows or Linux, or an XServer running on Windows and projected into WSL, WSLg provides a more integrated, user friendl…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The test-plan]]></title>
+        <id>changelog.com/news/QRYN</id>
+        <link href="https://www.iamjonas.me/2021/04/the-test-plan.html"/>
+        <updated>2021-04-27T14:47:00.000Z</updated>
+        <summary type="html"><![CDATA[“The tests are timing out again!”, someone yells. “Alright I’ll bump them”, you instinctively respond. Then you pause and feel uneasy. Is there another way?
+In this blog post, I share my growing disconnect with code-coverage and unit-testing. I then detail the method I’ve been using for the greater part of 7 years and how it still allows me to preach at length that being correct is the single most important thing for a developer.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jonas Lundberg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 best practices for remote software engineering]]></title>
+        <id>changelog.com/news/4Opp</id>
+        <link href="https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext"/>
+        <updated>2021-04-27T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[What does “developer productivity” mean to you?
+At face value, when we think of developer productivity we might think of effectiveness in time management, communication, and task completion. Although we are drawn to personal workflow or time management tools, and learning secrets to improving our productivity, ironically this quest for the holy grail can sometimes take us off course and be a detriment to our productivity. … As a developer of scientific software, and one who has transitioned to working remot…]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
         </author>
     </entry>
     <entry>
@@ -511,6 +782,91 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Changelog 438: Let's mint some NFTs]]></title>
+        <id>changelog.com/1/1333</id>
+        <link href="https://changelog.com/podcast/438"/>
+        <updated>2021-04-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This week we’re talking about NFTs — that’s right, non-fungible tokens and we’re joined by Mikeal Rogers, who’s leading all things InterPlanetary Linked Data at Protocol Labs. We go down the NFT rabbit hole on a very technical level and we come out the other side with clarity and a compelling use of NFTs.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+Sourcegraph – Sourcegraph is universal code search for every developer and team…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS tips and tricks (you won’t see in most tutorials)]]></title>
+        <id>changelog.com/news/qeY2</id>
+        <link href="https://markodenic.com/css-tips/"/>
+        <updated>2021-04-26T20:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Marko Denic shared 10 or so very interesting CSS tips (and tricks) in this post with Codepen examples to play with. There were a few I hadn’t heard of, which is awesome.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The end of Silicon Valley as we know it?]]></title>
+        <id>changelog.com/news/4Op4</id>
+        <link href="https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/?sfmc_id=194547222"/>
+        <updated>2021-04-26T19:10:45.000Z</updated>
+        <summary type="html"><![CDATA[High-profile entrepreneurs like Elon Musk, venture capitalists like Peter Thiel and Keith Rabois, and big companies like Oracle and HP Enterprise are all leaving California. During COVID-19, Zoom-enabled tech workers have discovered the benefits of remote work from cheaper, less congested communities elsewhere. Is this the end of Silicon Valley as we know it? Perhaps. But other challenges to Silicon Valley’s preeminence are more fundamental than the tech diaspora.
+Understanding four trends that may shape th…]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The social contract of open source]]></title>
+        <id>changelog.com/news/Z1Ym</id>
+        <link href="https://snarky.ca/the-social-contract-of-open-source/"/>
+        <updated>2021-04-26T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Brett Cannon, who is a Python core developer (and a tall, snarky Canadian):
+I felt it was time to do another blog post to directly address the issue of entitlement by some open source users which is hurting open source, both for themselves and for others. I want to get the point across that open source maintainers owe you quite literally nothing when it comes to their open source code, and treating them poorly is unethical. And to me, this is the underlying social contract of open source. (emphasis added)
+Y…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mongita is to MongoDB as SQLite is to SQL]]></title>
+        <id>changelog.com/news/VRYe</id>
+        <link href="https://github.com/scottrogowski/mongita"/>
+        <updated>2021-04-26T15:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library.  Mongita can be configured to store its documents either on disk or in memory.
+I can’t speak to the implementation, but I love the idea behind this project. Already know and love Mongo? Here’s a way to use it in an embedded fashion with all of the advantages that come with such …]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The true meaning of technical debt 💸]]></title>
+        <id>changelog.com/news/yXJb</id>
+        <link href="https://refactoring.fm/p/the-true-meaning-of-technical-debt"/>
+        <updated>2021-04-26T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[This is an excellent article about understanding technical debt:
+It is a fact that, over time, all development teams get slowed down by the existing codebase. But why? Is it because maintenance is inevitable? Or because we could do something better in the first place? Or both?
+Luca argues that technical debt is introduced as a by-product of disagreement, which itself is a by-product of two phenomena: wrong design, and rapid evolution. Thoughtful stuff. Well worth your time.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A curated list of music DSP and audio programming resources]]></title>
+        <id>changelog.com/news/Jqa0</id>
+        <link href="https://github.com/olilarkin/awesome-musicdsp"/>
+        <updated>2021-04-26T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Oli Larkin:
+This is a curated list of my favourite music DSP and audio programming resources. It was originally meant to be an official “Awesome list”, but apparently you are not meant to write in the first person, so it is now a “more awesome” list.
+I’m still giving this the awesome topic, despite his first person point of view. Oli is a long-time audio programmer, so he’s well positioned to curate a list like this one.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How To Bake Layers Of Accessibility Testing Into Your Process]]></title>
         <id>https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/</id>
         <link href="https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/"/>
@@ -518,6 +874,47 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Accessibility experts Kate Kalcevich and Mike Gifford introduce readers to "layered accessibility testing”, a practice of using a variety of tools and approaches at different stages in the digital product lifecycle to catch accessibility issues early &mdash; when it’s easier and cheaper to fix them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Kate Kalcevich &amp; Mike Gifford)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS Party 172: Sweet setups for easier dev]]></title>
+        <id>changelog.com/6/1330</id>
+        <link href="https://changelog.com/jsparty/172"/>
+        <updated>2021-04-23T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The gang talks about thier favorite software and hardware as developers. Brian Douglas joins to share his unique and open GitHub Actions flow.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ skills sharp at oreilly.com/changelog
+
+    
+Square – Develop on the pla…]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You might as well timestamp it]]></title>
+        <id>changelog.com/posts/2496</id>
+        <link href="https://changelog.com/posts/you-might-as-well-timestamp-it"/>
+        <updated>2021-04-23T14:17:23.000Z</updated>
+        <summary type="html"><![CDATA[In my 15+ years of web development, there are very few things I can say are unequivocally a good idea. It almost always does depend.
+Storing timestamps instead of booleans, however, is one of those things I can go out on a limb and say it doesn’t really depend all that much. You might as well timestamp it. There are plenty of times in my career when I’ve stored a boolean and later wished I’d had a timestamp. There are zero times when I’ve stored a timestamp and regretted that decision.
+Why is that? Because …]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker without Docker]]></title>
+        <id>changelog.com/news/yXJ5</id>
+        <link href="https://fly.io/blog/docker-without-docker/"/>
+        <updated>2021-04-23T13:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Thomas Ptacek writing on Fly’s blog:
+Even though most of our users deliver software to us as Docker containers, we don’t use Docker to run them. Docker is great, but we’re high-density multitenant, and despite strides, Docker’s isolation isn’t strong enough for that. So, instead, we transmogrify container images into Firecracker micro-VMs.
+This is a fun, technical read about how they’re converting Docker’s OCI images (turns out they’re just a stack of tarballs) into Firecracker VMs. It’s much simpler to acc…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -531,6 +928,32 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Go Time 176: TCP & UDP]]></title>
+        <id>changelog.com/2/1288</id>
+        <link href="https://changelog.com/gotime/176"/>
+        <updated>2021-04-22T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The internet wouldn’t exist as we know it if it weren’t for TCP and UDP, yet many developers don’t quite understand the technology powering the web. In this episode we talk with Adam Woodbeck, author of Network Programming with Go, to learn about TCP and UDP; what they are, how they work, and how one can experiment with tools like Wireshark and Go to learn more.
+Discuss on Changelog News
+Join Changelog++ to support our work, get closer to the metal, and make the ads disappear!
+Sponsors
+O&#39;Reilly Media – …]]></summary>
+        <author>
+            <name>Changelog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An operating system that only plays Tetris]]></title>
+        <id>changelog.com/news/8X6k</id>
+        <link href="https://github.com/jdah/tetris-os"/>
+        <updated>2021-04-22T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The accompanying video (22:36) explains why and walks you through the development process as well.
+
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Web Design Done Well: The Ordinary Made Extraordinary (Part 1)]]></title>
         <id>https://smashingmagazine.com/2021/04/web-design-done-well-part1/</id>
         <link href="https://smashingmagazine.com/2021/04/web-design-done-well-part1/"/>
@@ -538,6 +961,55 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[Sometimes it’s the little things in web life that make us look twice. From carousels to documentation to cookie disclaimers, here are some sites taking the mundane and sprinkling in a little magic.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A tool to spy on your DNS queries]]></title>
+        <id>changelog.com/news/NoYb</id>
+        <link href="https://jvns.ca/blog/2021/03/31/dnspeep-tool/"/>
+        <updated>2021-04-22T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[You can think of Julia Evans’ new dnspeep tool as similar to tcpdump but specifically for watching your machine’s DNS queries.
+One thing I like about this tool is that it gives me a sense for what programs on my computer are using the Internet! For example, I found out that something on my computer is making requests to ping.manjaro.org from time to time for some reason, probably to check I’m connected to the internet.
+A friend of mine actually discovered using this tool that he had some corporate monitorin…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An algorithmic human-computer techno jam]]></title>
+        <id>changelog.com/news/r5YZ</id>
+        <link href="https://github.com/vitling/acid-banger"/>
+        <updated>2021-04-21T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The music you hear is generated in your browser by a randomised algorithm, below you can see the notes and parameters that are currently in use. You can also interact with various parameters and buttons manually. The green autopilot switches change how automatic playback is. Leave them on for a lean-back experience. Buttons labelled ⟳ will generate new patterns. Source Code is on GitHub.
+Bangin’
+
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Releasing The GraphQL Guide]]></title>
+        <id>changelog.com/news/zO9V</id>
+        <link href="https://blog.graphql.guide/releasing-the-graphql-guide-d9be04747148?source=friends_link&amp;sk=425e4952c1fbf88f1fcb538d726344a3"/>
+        <updated>2021-04-21T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[John Resig and Loren Sands-Ramshaw first announced the beta of their GraphQL book (discussed here) nearly three years ago. After years of writing and re-writing, it’s now ready to be released. Loren had this to say in the linked announcement post:
+This project has taken much longer than we expected, and the length of the book has wound up being much longer than we expected. We’d like to give a huge shout-out to our 740 beta readers who stuck with us through four major versions of the in-progress text.
+The G…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting into FAANG as a junior developer]]></title>
+        <id>changelog.com/news/pXO3</id>
+        <link href="https://cvcompiler.com/blog/getting-into-faang-as-an-aspiring-developer/"/>
+        <updated>2021-04-21T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Lily Cook:
+In this article, I will talk about trending tech skills in 2021 that may help trainees or junior developers secure their desired position at FAANG. I will also uncover some tips for successful interviewing at the Big Five tech giants and reveal whether a cover letter can assist you in your FAANG job search. Let’s dive in.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
@@ -551,6 +1023,17 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A deep dive on CORS]]></title>
+        <id>changelog.com/news/boje</id>
+        <link href="https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/"/>
+        <updated>2021-04-21T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn the history and evolution of same-origin policy and CORS, understand CORS and the different types of cross-origin access in depth, and learn (some) best practices.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
         <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
         <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
@@ -558,6 +1041,18 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana, Loki, and Tempo will be relicensed to AGPLv3]]></title>
+        <id>changelog.com/news/a3Yp</id>
+        <link href="https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/"/>
+        <updated>2021-04-20T19:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Raj Dutt, CEO and co-founder of Grafana Labs:
+Our company has always tried to balance the “value creation” of open source and community with the “value capture” of our monetization strategy. The choice of license is a key pillar of this strategy, and is something that we’ve deliberated on extensively since the company began.
+Over the last few years, we’ve watched closely as almost every at-scale open source company that we admire (such as Elastic, Redis Labs, MongoDB, Timescale, Cockroach Labs, and many oth…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
