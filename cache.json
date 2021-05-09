@@ -174,7 +174,7 @@
           "description": "Any git repository may contain tons of information about commits, contributors, and files. Extracting this information is not always trivial, mostly because there are a gadzillion options to a gadzillion git commands – I don’t think there is a single person alive who knows them all. Probably not even Linus Torvalds himself :).\n\nDiscuss on Changelog News",
           "link": "https://github.com/arzzen/git-quick-stats",
           "publishedOn": "2021-05-03T15:31:00.000Z",
-          "wordCount": 1632,
+          "wordCount": 1678,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "A simple and efficient way to access various stats in a Git repo"
@@ -185,7 +185,7 @@
           "description": "David Cassel, on The New Stack:\nWidely-respected security expert Dan Kaminsky passed away on April 23 from diabetic ketoacidosis at the age of 42. His considerable legacy went beyond expertise with a rare and memorable kindness.\nI met Dan very briefly at ShmooCon back in 2004. His kindness was memorable, for sure, but the thing I remember most was just how larger-than-life he was to me at the time. The guy contributed so much to the infosec community and yet remained humble and kind despite it all. It was s…",
           "link": "https://thenewstack.io/remembering-dan-kaminsky/",
           "publishedOn": "2021-05-03T14:42:00.000Z",
-          "wordCount": 2486,
+          "wordCount": 2496,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "Remembering Dan Kaminsky"
@@ -196,7 +196,7 @@
           "description": "The feed is hosted on GitHub Pages (which means it’s public to all) and is static until it gets rebuilt. Building is done periodically via a GitHub Action; configuration is via a YAML file (It’d be cooler if you could import an OPML instead). Even if it’s not something you’d use, I think this project is interesting for two reasons:\nIt’s part of a “GitHub as Stack” meta-trend\nIt promotes RSS, which is one of the web’s great treasures\nDiscuss on Changelog News",
           "link": "https://github.com/osmoscraft/osmosfeed",
           "publishedOn": "2021-05-03T13:50:00.000Z",
-          "wordCount": 1209,
+          "wordCount": 1122,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "A web-based RSS reader running entirely from your GitHub repo"
@@ -284,7 +284,7 @@
           "description": "April Fool’s may be over, but once we set up a system to react every time someone typed Command+C, we realized there was also an opportunity to learn about how people use our site. Here’s what we found.\nTLDR; one in four users copy something within five minutes of hitting a page. But this blog post (and accompanying podcast episode) goes deep into the details and lays it all out for you with pretty charts.\nDiscuss on Changelog News",
           "link": "https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/",
           "publishedOn": "2021-04-28T18:37:00.000Z",
-          "wordCount": 6434,
+          "wordCount": 6437,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "How often do people actually copy/paste from Stack Overflow? Now we know"
@@ -350,7 +350,7 @@
           "description": "What does “developer productivity” mean to you?\nAt face value, when we think of developer productivity we might think of effectiveness in time management, communication, and task completion. Although we are drawn to personal workflow or time management tools, and learning secrets to improving our productivity, ironically this quest for the holy grail can sometimes take us off course and be a detriment to our productivity. … As a developer of scientific software, and one who has transitioned to working remot…",
           "link": "https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
           "publishedOn": "2021-04-27T13:45:00.000Z",
-          "wordCount": 4562,
+          "wordCount": 4572,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "10 best practices for remote software engineering"
