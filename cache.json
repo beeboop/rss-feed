@@ -86,7 +86,7 @@
           "description": "ClearURLs is an add-on based on the new WebExtensions technology and is optimized for Firefox and Chrome based browsers.\nThis extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet, which is regularly updated by us and can be found here.\nDiscuss on Changelog News",
           "link": "https://github.com/ClearURLs/Addon/",
           "publishedOn": "2021-05-05T15:40:00.000Z",
-          "wordCount": 1348,
+          "wordCount": 1189,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "An extension that automatically removes tracking elements from URLs"
@@ -174,7 +174,7 @@
           "description": "Any git repository may contain tons of information about commits, contributors, and files. Extracting this information is not always trivial, mostly because there are a gadzillion options to a gadzillion git commands – I don’t think there is a single person alive who knows them all. Probably not even Linus Torvalds himself :).\n\nDiscuss on Changelog News",
           "link": "https://github.com/arzzen/git-quick-stats",
           "publishedOn": "2021-05-03T15:31:00.000Z",
-          "wordCount": 1678,
+          "wordCount": 1708,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "A simple and efficient way to access various stats in a Git repo"
@@ -185,7 +185,7 @@
           "description": "David Cassel, on The New Stack:\nWidely-respected security expert Dan Kaminsky passed away on April 23 from diabetic ketoacidosis at the age of 42. His considerable legacy went beyond expertise with a rare and memorable kindness.\nI met Dan very briefly at ShmooCon back in 2004. His kindness was memorable, for sure, but the thing I remember most was just how larger-than-life he was to me at the time. The guy contributed so much to the infosec community and yet remained humble and kind despite it all. It was s…",
           "link": "https://thenewstack.io/remembering-dan-kaminsky/",
           "publishedOn": "2021-05-03T14:42:00.000Z",
-          "wordCount": 2496,
+          "wordCount": 2490,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "Remembering Dan Kaminsky"
@@ -196,7 +196,7 @@
           "description": "The feed is hosted on GitHub Pages (which means it’s public to all) and is static until it gets rebuilt. Building is done periodically via a GitHub Action; configuration is via a YAML file (It’d be cooler if you could import an OPML instead). Even if it’s not something you’d use, I think this project is interesting for two reasons:\nIt’s part of a “GitHub as Stack” meta-trend\nIt promotes RSS, which is one of the web’s great treasures\nDiscuss on Changelog News",
           "link": "https://github.com/osmoscraft/osmosfeed",
           "publishedOn": "2021-05-03T13:50:00.000Z",
-          "wordCount": 1122,
+          "wordCount": 1231,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "A web-based RSS reader running entirely from your GitHub repo"
@@ -218,7 +218,7 @@
           "description": "A handy shell script to help you undo all the things (commits, pushes, pulls, you name it).\n\nDiscuss on Changelog News",
           "link": "https://github.com/Bhupesh-V/ugit",
           "publishedOn": "2021-04-30T14:16:00.000Z",
-          "wordCount": 1089,
+          "wordCount": 1093,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "ugit helps you undo your last git command with grace"
@@ -284,7 +284,7 @@
           "description": "April Fool’s may be over, but once we set up a system to react every time someone typed Command+C, we realized there was also an opportunity to learn about how people use our site. Here’s what we found.\nTLDR; one in four users copy something within five minutes of hitting a page. But this blog post (and accompanying podcast episode) goes deep into the details and lays it all out for you with pretty charts.\nDiscuss on Changelog News",
           "link": "https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/",
           "publishedOn": "2021-04-28T18:37:00.000Z",
-          "wordCount": 6437,
+          "wordCount": 6438,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "How often do people actually copy/paste from Stack Overflow? Now we know"
@@ -350,7 +350,7 @@
           "description": "What does “developer productivity” mean to you?\nAt face value, when we think of developer productivity we might think of effectiveness in time management, communication, and task completion. Although we are drawn to personal workflow or time management tools, and learning secrets to improving our productivity, ironically this quest for the holy grail can sometimes take us off course and be a detriment to our productivity. … As a developer of scientific software, and one who has transitioned to working remot…",
           "link": "https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
           "publishedOn": "2021-04-27T13:45:00.000Z",
-          "wordCount": 4572,
+          "wordCount": 4563,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "10 best practices for remote software engineering"
@@ -405,7 +405,7 @@
           "description": "Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library.  Mongita can be configured to store its documents either on disk or in memory.\nI can’t speak to the implementation, but I love the idea behind this project. Already know and love Mongo? Here’s a way to use it in an embedded fashion with all of the advantages that come with such …",
           "link": "https://github.com/scottrogowski/mongita",
           "publishedOn": "2021-04-26T15:26:00.000Z",
-          "wordCount": 1396,
+          "wordCount": 1390,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "Mongita is to MongoDB as SQLite is to SQL"
@@ -482,7 +482,7 @@
           "description": "The accompanying video (22:36) explains why and walks you through the development process as well.\n\nDiscuss on Changelog News",
           "link": "https://github.com/jdah/tetris-os",
           "publishedOn": "2021-04-22T14:29:00.000Z",
-          "wordCount": 864,
+          "wordCount": 827,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "An operating system that only plays Tetris"
@@ -515,7 +515,7 @@
           "description": "John Resig and Loren Sands-Ramshaw first announced the beta of their GraphQL book (discussed here) nearly three years ago. After years of writing and re-writing, it’s now ready to be released. Loren had this to say in the linked announcement post:\nThis project has taken much longer than we expected, and the length of the book has wound up being much longer than we expected. We’d like to give a huge shout-out to our 740 beta readers who stuck with us through four major versions of the in-progress text.\nThe G…",
           "link": "https://blog.graphql.guide/releasing-the-graphql-guide-d9be04747148?source=friends_link&sk=425e4952c1fbf88f1fcb538d726344a3",
           "publishedOn": "2021-04-21T15:32:00.000Z",
-          "wordCount": 1158,
+          "wordCount": 1160,
           "sourceHref": "https://changelog.com/feed/",
           "sourceTitle": "Changelog",
           "title": "Releasing The GraphQL Guide"
@@ -564,7 +564,7 @@
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 1677,
+          "wordCount": 2031,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Is CSS a Programming Language?"
@@ -597,7 +597,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1550,
+          "wordCount": 1547,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
@@ -630,7 +630,7 @@
           "description": "You can&#8217;t even look at code or documentation for Astro (publicly) yet — it&#8217;s an in-progress idea — but you can watch a video of Fred showing it off to Feross. \nI gotta admit: it looks awesome. I&#8217;m bullish &#8230;\nThe post Astro appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
-          "wordCount": 915,
+          "wordCount": 920,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Astro"
@@ -696,7 +696,7 @@
           "description": "A bona fide CSS trick from Kirupa Chinnathambi here. To match a colored shadow with the colors in the background-image of an element, you inherit the background in a pseudo-element, kick it behind the original, then blur and filter it. &#8230;\nThe post Creating Colorful, Smart Shadows appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
           "publishedOn": "2021-05-04T14:19:48.000Z",
-          "wordCount": 1279,
+          "wordCount": 1276,
           "sourceHref": "https://css-tricks.com/feed/",
           "sourceTitle": "CSS-Tricks",
           "title": "Creating Colorful, Smart Shadows"
@@ -980,17 +980,6 @@
           "sourceHref": "https://www.smashingmagazine.com/feed/",
           "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
-        },
-        {
-          "id": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "author": "hello@smashingmagazine.com (Victor Yocco)",
-          "description": "UX practitioners can play an important role in growing the UX maturity of the organizations and product teams they work with. This final article in a three-part series presents two additional tactics: education of staff on UX principles and processes.",
-          "link": "https://smashingmagazine.com/2021/04/growing-ux-maturity-in-organizations-part-3/",
-          "publishedOn": "2021-04-09T19:30:00.000Z",
-          "wordCount": 5988,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
-          "title": "Growing UX Maturity In Organizations: Education And Training (Part 3)"
         }
       ]
     },
