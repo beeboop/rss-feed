@@ -1,17 +1,71 @@
 {
   "sources": [
     {
-      "href": "https://changelog.com/feed/",
+      "title": "Changelog",
+      "feedUrl": "https://changelog.com/feed/",
+      "siteUrl": "https://changelog.com/",
       "articles": [
         {
+          "id": "changelog.com/news/M5MG",
+          "author": "Jerod Santo",
+          "description": "A nice primer on the many aspects of building full-text search, such as: data preparation, indexing, searching, term frequency, and computing relevance. It’s amazing what 150 lines of code can get done…\nDiscuss on Changelog News",
+          "link": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/",
+          "publishedOn": "2021-05-10T17:23:00.000Z",
+          "wordCount": 3085,
+          "title": "Building a full-text search engine in 150 lines of Python code"
+        },
+        {
+          "id": "changelog.com/news/r59o",
+          "author": "Adam Stacoviak",
+          "description": "There are obvious upsides to pair programming. This post from Nat Bennett shares both the ups and the downs of pairing all day for years…\nSo I paired all day, most days, for about five years. This had a lot of upsides, far more than I can list here. There’s a standard list of benefits and drawbacks to pairing that you might be familiar with, but the impact of pairing, especially pairing that much, goes much deeper than its impact on the code, on the particular work the team delivers that week.\nNat goes on t…",
+          "link": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
+          "publishedOn": "2021-05-10T16:37:50.000Z",
+          "wordCount": 1474,
+          "title": "What happens when you pair all day, most days, for years?"
+        },
+        {
+          "id": "changelog.com/posts/2497",
+          "author": "Gerhard Lazu",
+          "description": "AMA Happy Hour with Priyanka Sharma \n\nAd-hoc conversations with you Carlos, Chico, Katie, Rahul &amp; Silviu were my favourite. They would not have happened was it not for your Happy Hour sessions Priyanka. And what would brilliant ideas be without your hard work Colleen &amp; Kristi, and the rest of your teams?\nI really appreciate how well this event came together. The virtual platform and diversity played a big part in this world-class experience. This was the perfect one to Ship It!, a brand new Changelo…",
+          "link": "https://changelog.com/posts/kubecon-cloudnativecon-europe-2021",
+          "publishedOn": "2021-05-10T16:00:00.000Z",
+          "wordCount": 1398,
+          "title": "🚀 KubeCon + CloudNativeCon Europe 2021"
+        },
+        {
+          "id": "changelog.com/news/OoQm",
+          "author": "Alexander Sulim",
+          "description": "After working as a software engineer for 20 years, it’s still exciting to see how the results of your work become alive and you still feel yourself as a kid at that moment :)\nDiscuss on Changelog News",
+          "link": "https://sul.im/blog/excitement-of-making/",
+          "publishedOn": "2021-05-10T15:46:00.000Z",
+          "wordCount": 433,
+          "title": "The excitement of making things real"
+        },
+        {
+          "id": "changelog.com/news/a3wR",
+          "author": "Adam Stacoviak",
+          "description": "Stripe Atlas has a wide array of guides to running an internet business that are totally open and free for everyone. This guide, written by Dr. Sherry Walling (a clinical psychologist), on “managing founder stress” covers everything from running smart (not just hard), coping with chronic stress, mastering the ups and downs, and a reminder that as a founder you are not alone.\nIf you like this guide, then you’ll probably be a fan of my podcast Founders Talk too.\nDiscuss on Changelog News",
+          "link": "https://stripe.com/atlas/guides/founder-stress",
+          "publishedOn": "2021-05-10T15:00:01.000Z",
+          "wordCount": 7895,
+          "title": "Guide to managing founder stress"
+        },
+        {
+          "id": "changelog.com/news/PoJ7",
+          "author": "Jerod Santo",
+          "description": "Bash is great, but when it comes to writing scripts, people usually choose a more convenient programming language. JavaScript is a perfect choice, but standard Node.js library requires additional hassle before using. zx package provides useful wrappers around child_process, escapes arguments and gives sensible defaults.\nI wouldn’t say JavaScript is a perfect choice for this kind of scripting, but it’s definitely a suitable one (especially if it’s the language you already know well). Here’s what scripting lo…",
+          "link": "https://github.com/google/zx",
+          "publishedOn": "2021-05-10T13:50:00.000Z",
+          "wordCount": 1068,
+          "title": "google/zx – a tool for writing better scripts"
+        },
+        {
           "id": "changelog.com/1/1337",
-          "author": "Changelog",
+          "author": null,
           "description": "This week Elixir creator José Valim joins Jerod and Practical AI’s Daniel Whitenack to discuss Numerical Elixir, his new project that’s bringing Elixir into the world of machine learning. We discuss why José chose this as his next direction, the team’s layered approach, influences and collaborators on this effort, and their awesome collaborative notebook project that’s built on Phoenix LiveView.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappe…",
           "link": "https://changelog.com/podcast/439",
           "publishedOn": "2021-05-07T21:00:00.000Z",
-          "wordCount": 446,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 448,
           "title": "The Changelog 439: Elixir meets machine learning"
         },
         {
@@ -21,19 +75,15 @@
           "link": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
           "publishedOn": "2021-05-07T17:28:00.000Z",
           "wordCount": 1707,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Hosting SQLite databases on GitHub Pages"
         },
         {
           "id": "changelog.com/6/1340",
-          "author": "Changelog",
+          "author": null,
           "description": "Paul Bakaus from Google Web Creators joins Amal, Nick, &amp; Jerod to talk about this new initiative to promote, educate, and equip people to create on the web.\nAlong the way we discuss Web Stories, AMP, RSS, Google Reader, and more, of course. Join us: for a more dope web!\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just op…",
           "link": "https://changelog.com/jsparty/174",
           "publishedOn": "2021-05-07T16:30:00.000Z",
-          "wordCount": 410,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 412,
           "title": "JS Party 174: For a more dope web!"
         },
         {
@@ -43,8 +93,6 @@
           "link": "https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/",
           "publishedOn": "2021-05-07T14:33:00.000Z",
           "wordCount": 1384,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Building a distributed turn-based game system in Elixir"
         },
         {
@@ -54,19 +102,15 @@
           "link": "http://paulgraham.com/newideas.html",
           "publishedOn": "2021-05-07T13:47:00.000Z",
           "wordCount": 1304,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Crazy new ideas"
         },
         {
           "id": "changelog.com/2/1210",
-          "author": "Changelog",
+          "author": null,
           "description": "Perspectives from both the workshop leaders perspective, as well as the workshop participants. What are some top tips, things to watch out for, and ways to innovate and keep your participants engaged, especially in the remote world we are now living in.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nTeleport – Quickly access any resource anywhere using a Unified Access Plane that consolidates access controls and auditing across a…",
           "link": "https://changelog.com/gotime/178",
           "publishedOn": "2021-05-06T15:25:00.000Z",
-          "wordCount": 376,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 378,
           "title": "Go Time 178: What makes wonderful workshops?"
         },
         {
@@ -76,8 +120,6 @@
           "link": "https://sli.dev/",
           "publishedOn": "2021-05-06T14:56:00.000Z",
           "wordCount": 75,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Slidev – presentation slides for developers"
         },
         {
@@ -86,9 +128,7 @@
           "description": "ClearURLs is an add-on based on the new WebExtensions technology and is optimized for Firefox and Chrome based browsers.\nThis extension will automatically remove tracking elements from URLs to help protect your privacy when browse through the Internet, which is regularly updated by us and can be found here.\nDiscuss on Changelog News",
           "link": "https://github.com/ClearURLs/Addon/",
           "publishedOn": "2021-05-05T15:40:00.000Z",
-          "wordCount": 1189,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 1348,
           "title": "An extension that automatically removes tracking elements from URLs"
         },
         {
@@ -98,8 +138,6 @@
           "link": "https://wormhole.app/?ref=changelog",
           "publishedOn": "2021-05-05T14:47:00.000Z",
           "wordCount": 62,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Wormhole – Simple, fast, private file sharing ✨"
         },
         {
@@ -109,19 +147,15 @@
           "link": "https://observablehq.com/@observablehq/plot",
           "publishedOn": "2021-05-05T13:26:00.000Z",
           "wordCount": 8,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Plot – a JS library to help you quickly visualize tabular data"
         },
         {
           "id": "changelog.com/7/1349",
-          "author": "Changelog",
+          "author": null,
           "description": "Smart home data is complicated. There are all kinds of devices, and they are in many different combinations, geographies, configurations, etc. This complicated data situation is further exacerbated during a pandemic when time series data seems to be filled with anomalies. Evan Welbourne joins us to discuss how Amazon is synthesizing this disparate data into functionality for the next generation of smart homes. He discusses the challenges of working with smart home technology, and he describes how they devel…",
           "link": "https://changelog.com/practicalai/132",
           "publishedOn": "2021-05-04T15:30:00.000Z",
-          "wordCount": 434,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 436,
           "title": "Practical AI 132: Generating \"hunches\" using smart home data 🏠"
         },
         {
@@ -130,9 +164,7 @@
           "description": "This repository offers a collection of services with great free tiers for developers on a budget. Because not everyone has 20$ per month to spend on app or database hosting for every single side-project.\nNowadays, a lot of services are offering really good free tier more than enough for testing small apps and even put them in production. They are just waiting to be used by you.\nI got a kick out of their FTDD acronym: Free Tier Driven Development\nDiscuss on Changelog News",
           "link": "https://github.com/255kb/stack-on-a-budget",
           "publishedOn": "2021-05-04T14:23:00.000Z",
-          "wordCount": 1009,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 1015,
           "title": "A collection of services with great free tiers for developers on a budget"
         },
         {
@@ -142,8 +174,6 @@
           "link": "https://geekmonkey.org/regular-expression-matching-at-scale-with-hyperscan/",
           "publishedOn": "2021-05-04T13:37:00.000Z",
           "wordCount": 1998,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Regular expression matching at scale with Hyperscan"
         },
         {
@@ -153,8 +183,6 @@
           "link": "https://weblog.rubyonrails.org/2021/5/2/rails-governance/",
           "publishedOn": "2021-05-03T16:19:08.000Z",
           "wordCount": 287,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Clarity on Rails' governance"
         },
         {
@@ -164,8 +192,6 @@
           "link": "https://muhammadraza.me/2021/Oneliners/",
           "publishedOn": "2021-05-03T16:01:29.000Z",
           "wordCount": 489,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "My favorite (command line) one liners"
         },
         {
@@ -175,8 +201,6 @@
           "link": "https://github.com/arzzen/git-quick-stats",
           "publishedOn": "2021-05-03T15:31:00.000Z",
           "wordCount": 1708,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "A simple and efficient way to access various stats in a Git repo"
         },
         {
@@ -185,9 +209,7 @@
           "description": "David Cassel, on The New Stack:\nWidely-respected security expert Dan Kaminsky passed away on April 23 from diabetic ketoacidosis at the age of 42. His considerable legacy went beyond expertise with a rare and memorable kindness.\nI met Dan very briefly at ShmooCon back in 2004. His kindness was memorable, for sure, but the thing I remember most was just how larger-than-life he was to me at the time. The guy contributed so much to the infosec community and yet remained humble and kind despite it all. It was s…",
           "link": "https://thenewstack.io/remembering-dan-kaminsky/",
           "publishedOn": "2021-05-03T14:42:00.000Z",
-          "wordCount": 2490,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 2476,
           "title": "Remembering Dan Kaminsky"
         },
         {
@@ -196,20 +218,16 @@
           "description": "The feed is hosted on GitHub Pages (which means it’s public to all) and is static until it gets rebuilt. Building is done periodically via a GitHub Action; configuration is via a YAML file (It’d be cooler if you could import an OPML instead). Even if it’s not something you’d use, I think this project is interesting for two reasons:\nIt’s part of a “GitHub as Stack” meta-trend\nIt promotes RSS, which is one of the web’s great treasures\nDiscuss on Changelog News",
           "link": "https://github.com/osmoscraft/osmosfeed",
           "publishedOn": "2021-05-03T13:50:00.000Z",
-          "wordCount": 1231,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 1214,
           "title": "A web-based RSS reader running entirely from your GitHub repo"
         },
         {
           "id": "changelog.com/6/1327",
-          "author": "Changelog",
+          "author": null,
           "description": "KBall, Amal, and Feross are joined by special guest Jenn Creighton to talk about all things Apollo. How does Apollo fit into the GraphQL ecosystem, what’s the next big thing, and when would you choose to use it?\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ sk…",
           "link": "https://changelog.com/jsparty/173",
           "publishedOn": "2021-04-30T16:00:00.000Z",
-          "wordCount": 397,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 7982,
           "title": "JS Party 173: Blasting off with Apollo 🚀"
         },
         {
@@ -219,8 +237,6 @@
           "link": "https://github.com/Bhupesh-V/ugit",
           "publishedOn": "2021-04-30T14:16:00.000Z",
           "wordCount": 1093,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "ugit helps you undo your last git command with grace"
         },
         {
@@ -230,19 +246,15 @@
           "link": "https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html",
           "publishedOn": "2021-04-30T13:30:00.000Z",
           "wordCount": 1499,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "SQLite is the only database you will ever need in most cases"
         },
         {
           "id": "changelog.com/2/1214",
-          "author": "Changelog",
+          "author": null,
           "description": "Startups are all about iterating quickly, building MVPs, and finding that elusive product market fit, so how does Go fit into that picture? Is Go a good choice for startups, or is it exclusively for the larger corporations? In this episode Jon is joined by four startup founders to learn about their experience building a startup with Go.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – Learn by doing — Python, d…",
           "link": "https://changelog.com/gotime/177",
           "publishedOn": "2021-04-29T15:45:00.000Z",
-          "wordCount": 440,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 13414,
           "title": "Go Time 177: Building startups with Go"
         },
         {
@@ -252,8 +264,6 @@
           "link": "https://opensource.com/article/21/4/encryption-decryption-openssl",
           "publishedOn": "2021-04-29T15:43:00.000Z",
           "wordCount": 3214,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Encrypting and decrypting files with OpenSSL"
         },
         {
@@ -263,8 +273,6 @@
           "link": "https://www.exxactcorp.com/blog/Deep-Learning/difference-between-ai-machine-learning-and-deep-learning",
           "publishedOn": "2021-04-29T14:15:00.000Z",
           "wordCount": 6510,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Disentangling AI, machine learning, and deep learning"
         },
         {
@@ -274,8 +282,6 @@
           "link": "https://shekhargulati.com/2021/03/06/questions-to-ask-when-making-build-versus-buy-decision/",
           "publishedOn": "2021-04-29T13:26:00.000Z",
           "wordCount": 2146,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Questions to ask when making Build vs Buy decisions"
         },
         {
@@ -284,9 +290,7 @@
           "description": "April Fool’s may be over, but once we set up a system to react every time someone typed Command+C, we realized there was also an opportunity to learn about how people use our site. Here’s what we found.\nTLDR; one in four users copy something within five minutes of hitting a page. But this blog post (and accompanying podcast episode) goes deep into the details and lays it all out for you with pretty charts.\nDiscuss on Changelog News",
           "link": "https://stackoverflow.blog/2021/04/19/how-often-do-people-actually-copy-and-paste-from-stack-overflow-now-we-know/",
           "publishedOn": "2021-04-28T18:37:00.000Z",
-          "wordCount": 6438,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 6444,
           "title": "How often do people actually copy/paste from Stack Overflow? Now we know"
         },
         {
@@ -296,8 +300,6 @@
           "link": "https://github.blog/changelog/2021-04-27-github-pages-permissions-policy-interest-cohort-header-added-to-all-pages-sites/",
           "publishedOn": "2021-04-28T16:07:00.000Z",
           "wordCount": 174,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "GitHub blocks FLoC across all of GitHub Pages"
         },
         {
@@ -307,19 +309,15 @@
           "link": "https://www.platformer.news/p/-what-really-happened-at-basecamp",
           "publishedOn": "2021-04-28T13:26:00.000Z",
           "wordCount": 2704,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "What really happened at Basecamp"
         },
         {
           "id": "changelog.com/7/1347",
-          "author": "Changelog",
+          "author": null,
           "description": "Ro Gupta from CARMERA teaches Daniel and Chris all about road intelligence.  CARMERA maintains the maps that move the world, from HD maps for automated driving to consumer maps for human navigation.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ skills sharp at…",
           "link": "https://changelog.com/practicalai/131",
           "publishedOn": "2021-04-27T19:15:00.000Z",
-          "wordCount": 8664,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 8666,
           "title": "Practical AI 131: Mapping the world"
         },
         {
@@ -329,8 +327,6 @@
           "link": "https://github.com/microsoft/wslg",
           "publishedOn": "2021-04-27T15:35:00.000Z",
           "wordCount": 4017,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "WSLg brings Linux GUI apps to Windows in a fully integrated fashion"
         },
         {
@@ -340,8 +336,6 @@
           "link": "https://www.iamjonas.me/2021/04/the-test-plan.html",
           "publishedOn": "2021-04-27T14:47:00.000Z",
           "wordCount": 2857,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "The test-plan"
         },
         {
@@ -350,20 +344,16 @@
           "description": "What does “developer productivity” mean to you?\nAt face value, when we think of developer productivity we might think of effectiveness in time management, communication, and task completion. Although we are drawn to personal workflow or time management tools, and learning secrets to improving our productivity, ironically this quest for the holy grail can sometimes take us off course and be a detriment to our productivity. … As a developer of scientific software, and one who has transitioned to working remot…",
           "link": "https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext",
           "publishedOn": "2021-04-27T13:45:00.000Z",
-          "wordCount": 4563,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 4559,
           "title": "10 best practices for remote software engineering"
         },
         {
           "id": "changelog.com/1/1333",
-          "author": "Changelog",
+          "author": null,
           "description": "This week we’re talking about NFTs — that’s right, non-fungible tokens and we’re joined by Mikeal Rogers, who’s leading all things InterPlanetary Linked Data at Protocol Labs. We go down the NFT rabbit hole on a very technical level and we come out the other side with clarity and a compelling use of NFTs.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nSourcegraph – Sourcegraph is universal code search for every developer and team…",
           "link": "https://changelog.com/podcast/438",
           "publishedOn": "2021-04-27T11:00:00.000Z",
-          "wordCount": 16131,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 16133,
           "title": "The Changelog 438: Let's mint some NFTs"
         },
         {
@@ -373,8 +363,6 @@
           "link": "https://markodenic.com/css-tips/",
           "publishedOn": "2021-04-26T20:03:00.000Z",
           "wordCount": 746,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "CSS tips and tricks (you won’t see in most tutorials)"
         },
         {
@@ -384,8 +372,6 @@
           "link": "https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/?sfmc_id=194547222",
           "publishedOn": "2021-04-26T19:10:45.000Z",
           "wordCount": 6345,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "The end of Silicon Valley as we know it?"
         },
         {
@@ -395,8 +381,6 @@
           "link": "https://snarky.ca/the-social-contract-of-open-source/",
           "publishedOn": "2021-04-26T16:16:00.000Z",
           "wordCount": 2066,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "The social contract of open source"
         },
         {
@@ -406,8 +390,6 @@
           "link": "https://github.com/scottrogowski/mongita",
           "publishedOn": "2021-04-26T15:26:00.000Z",
           "wordCount": 1390,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Mongita is to MongoDB as SQLite is to SQL"
         },
         {
@@ -417,8 +399,6 @@
           "link": "https://refactoring.fm/p/the-true-meaning-of-technical-debt",
           "publishedOn": "2021-04-26T14:24:00.000Z",
           "wordCount": 1484,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "The true meaning of technical debt 💸"
         },
         {
@@ -427,20 +407,16 @@
           "description": "Oli Larkin:\nThis is a curated list of my favourite music DSP and audio programming resources. It was originally meant to be an official “Awesome list”, but apparently you are not meant to write in the first person, so it is now a “more awesome” list.\nI’m still giving this the awesome topic, despite his first person point of view. Oli is a long-time audio programmer, so he’s well positioned to curate a list like this one.\nDiscuss on Changelog News",
           "link": "https://github.com/olilarkin/awesome-musicdsp",
           "publishedOn": "2021-04-26T13:15:00.000Z",
-          "wordCount": 3453,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 3444,
           "title": "A curated list of music DSP and audio programming resources"
         },
         {
           "id": "changelog.com/6/1330",
-          "author": "Changelog",
+          "author": null,
           "description": "The gang talks about thier favorite software and hardware as developers. Brian Douglas joins to share his unique and open GitHub Actions flow.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – Learn by doing — Python, data, AI, machine learning, Kubernetes, Docker, and more. Just open your browser and dive in. Learn more and keep your teams’ skills sharp at oreilly.com/changelog\n\n    \nSquare – Develop on the pla…",
           "link": "https://changelog.com/jsparty/172",
           "publishedOn": "2021-04-23T15:20:00.000Z",
-          "wordCount": 10500,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 10502,
           "title": "JS Party 172: Sweet setups for easier dev"
         },
         {
@@ -449,9 +425,7 @@
           "description": "In my 15+ years of web development, there are very few things I can say are unequivocally a good idea. It almost always does depend.\nStoring timestamps instead of booleans, however, is one of those things I can go out on a limb and say it doesn’t really depend all that much. You might as well timestamp it. There are plenty of times in my career when I’ve stored a boolean and later wished I’d had a timestamp. There are zero times when I’ve stored a timestamp and regretted that decision.\nWhy is that? Because …",
           "link": "https://changelog.com/posts/you-might-as-well-timestamp-it",
           "publishedOn": "2021-04-23T14:17:23.000Z",
-          "wordCount": 1416,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 1517,
           "title": "You might as well timestamp it"
         },
         {
@@ -461,19 +435,15 @@
           "link": "https://fly.io/blog/docker-without-docker/",
           "publishedOn": "2021-04-23T13:28:00.000Z",
           "wordCount": 2331,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
           "title": "Docker without Docker"
         },
         {
           "id": "changelog.com/2/1288",
-          "author": "Changelog",
+          "author": null,
           "description": "The internet wouldn’t exist as we know it if it weren’t for TCP and UDP, yet many developers don’t quite understand the technology powering the web. In this episode we talk with Adam Woodbeck, author of Network Programming with Go, to learn about TCP and UDP; what they are, how they work, and how one can experiment with tools like Wireshark and Go to learn more.\nDiscuss on Changelog News\nJoin Changelog++ to support our work, get closer to the metal, and make the ads disappear!\nSponsors\nO&#39;Reilly Media – …",
           "link": "https://changelog.com/gotime/176",
           "publishedOn": "2021-04-22T16:15:00.000Z",
-          "wordCount": 12013,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 12015,
           "title": "Go Time 176: TCP & UDP"
         },
         {
@@ -482,91 +452,32 @@
           "description": "The accompanying video (22:36) explains why and walks you through the development process as well.\n\nDiscuss on Changelog News",
           "link": "https://github.com/jdah/tetris-os",
           "publishedOn": "2021-04-22T14:29:00.000Z",
-          "wordCount": 827,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
+          "wordCount": 864,
           "title": "An operating system that only plays Tetris"
-        },
-        {
-          "id": "changelog.com/news/NoYb",
-          "author": "Jerod Santo",
-          "description": "You can think of Julia Evans’ new dnspeep tool as similar to tcpdump but specifically for watching your machine’s DNS queries.\nOne thing I like about this tool is that it gives me a sense for what programs on my computer are using the Internet! For example, I found out that something on my computer is making requests to ping.manjaro.org from time to time for some reason, probably to check I’m connected to the internet.\nA friend of mine actually discovered using this tool that he had some corporate monitorin…",
-          "link": "https://jvns.ca/blog/2021/03/31/dnspeep-tool/",
-          "publishedOn": "2021-04-22T13:42:00.000Z",
-          "wordCount": 1346,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "A tool to spy on your DNS queries"
-        },
-        {
-          "id": "changelog.com/news/r5YZ",
-          "author": "Jerod Santo",
-          "description": "The music you hear is generated in your browser by a randomised algorithm, below you can see the notes and parameters that are currently in use. You can also interact with various parameters and buttons manually. The green autopilot switches change how automatic playback is. Leave them on for a lean-back experience. Buttons labelled ⟳ will generate new patterns. Source Code is on GitHub.\nBangin’\n\nDiscuss on Changelog News",
-          "link": "https://github.com/vitling/acid-banger",
-          "publishedOn": "2021-04-21T16:19:00.000Z",
-          "wordCount": 735,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "An algorithmic human-computer techno jam"
-        },
-        {
-          "id": "changelog.com/news/zO9V",
-          "author": "Jerod Santo",
-          "description": "John Resig and Loren Sands-Ramshaw first announced the beta of their GraphQL book (discussed here) nearly three years ago. After years of writing and re-writing, it’s now ready to be released. Loren had this to say in the linked announcement post:\nThis project has taken much longer than we expected, and the length of the book has wound up being much longer than we expected. We’d like to give a huge shout-out to our 740 beta readers who stuck with us through four major versions of the in-progress text.\nThe G…",
-          "link": "https://blog.graphql.guide/releasing-the-graphql-guide-d9be04747148?source=friends_link&sk=425e4952c1fbf88f1fcb538d726344a3",
-          "publishedOn": "2021-04-21T15:32:00.000Z",
-          "wordCount": 1160,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "Releasing The GraphQL Guide"
-        },
-        {
-          "id": "changelog.com/news/pXO3",
-          "author": "Jerod Santo",
-          "description": "Lily Cook:\nIn this article, I will talk about trending tech skills in 2021 that may help trainees or junior developers secure their desired position at FAANG. I will also uncover some tips for successful interviewing at the Big Five tech giants and reveal whether a cover letter can assist you in your FAANG job search. Let’s dive in.\nDiscuss on Changelog News",
-          "link": "https://cvcompiler.com/blog/getting-into-faang-as-an-aspiring-developer/",
-          "publishedOn": "2021-04-21T14:43:00.000Z",
-          "wordCount": 2390,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "Getting into FAANG as a junior developer"
-        },
-        {
-          "id": "changelog.com/news/boje",
-          "author": "Jerod Santo",
-          "description": "Learn the history and evolution of same-origin policy and CORS, understand CORS and the different types of cross-origin access in depth, and learn (some) best practices.\nDiscuss on Changelog News",
-          "link": "https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/",
-          "publishedOn": "2021-04-21T13:43:00.000Z",
-          "wordCount": 4177,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "A deep dive on CORS"
-        },
-        {
-          "id": "changelog.com/news/a3Yp",
-          "author": "Jerod Santo",
-          "description": "Raj Dutt, CEO and co-founder of Grafana Labs:\nOur company has always tried to balance the “value creation” of open source and community with the “value capture” of our monetization strategy. The choice of license is a key pillar of this strategy, and is something that we’ve deliberated on extensively since the company began.\nOver the last few years, we’ve watched closely as almost every at-scale open source company that we admire (such as Elastic, Redis Labs, MongoDB, Timescale, Cockroach Labs, and many oth…",
-          "link": "https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/",
-          "publishedOn": "2021-04-20T19:26:00.000Z",
-          "wordCount": 1545,
-          "sourceHref": "https://changelog.com/feed/",
-          "sourceTitle": "Changelog",
-          "title": "Grafana, Loki, and Tempo will be relicensed to AGPLv3"
         }
       ]
     },
     {
-      "href": "https://css-tricks.com/feed/",
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=339203",
+          "author": "Ana Tudor",
+          "description": "I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;\nThe post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
+          "link": "https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/",
+          "publishedOn": "2021-05-10T14:13:12.000Z",
+          "wordCount": 2838,
+          "title": "Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal"
+        },
         {
           "id": "https://css-tricks.com/?p=339781",
           "author": "Chris Coyier",
           "description": "I have a real distaste for this question. It might seem like a fun question to dig into on the surface, but the way it enters public discourse rarely seems to be in good faith. There are ulterior motives at &#8230;\nThe post Is CSS a Programming Language? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-css-a-programming-language/",
           "publishedOn": "2021-05-07T13:56:17.000Z",
-          "wordCount": 2031,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3212,
           "title": "Is CSS a Programming Language?"
         },
         {
@@ -576,8 +487,6 @@
           "link": "https://css-tricks.com/links-on-typography/",
           "publishedOn": "2021-05-07T13:54:01.000Z",
           "wordCount": 952,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Links on Typography"
         },
         {
@@ -587,8 +496,6 @@
           "link": "https://www.caniemail.com/",
           "publishedOn": "2021-05-07T02:38:56.000Z",
           "wordCount": 324,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Can I Email…"
         },
         {
@@ -597,9 +504,7 @@
           "description": "Route53 is DNS management service by AWS. DNS is absolutely not a database, and yet here&#8217;s Nicholas Martin writing up some very clever trickery originally done by Corey Quinn:\nWhen you think about it, DNS configuration is actually a \n&#8230;\nThe post Apparently, You Can Use Route53 as a Blazingly Fast Database appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://betterprogramming.pub/apparently-you-can-use-route53-as-a-blazingly-fast-database-dd416b56b005",
           "publishedOn": "2021-05-06T20:03:26.000Z",
-          "wordCount": 1547,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 1542,
           "title": "Apparently, You Can Use Route53 as a Blazingly Fast Database"
         },
         {
@@ -609,8 +514,6 @@
           "link": "https://css-tricks.com/what-googles-new-page-experience-update-means-for-images-on-your-website/",
           "publishedOn": "2021-05-06T19:57:40.000Z",
           "wordCount": 2599,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "What Google’s New Page Experience Update Means for Images on Your Website"
         },
         {
@@ -620,8 +523,6 @@
           "link": "https://css-tricks.com/custom-state-pseudo-classes-in-chrome/",
           "publishedOn": "2021-05-06T14:28:53.000Z",
           "wordCount": 1025,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Custom State Pseudo-Classes in Chrome"
         },
         {
@@ -631,8 +532,6 @@
           "link": "https://css-tricks.com/astro/",
           "publishedOn": "2021-05-05T21:49:23.000Z",
           "wordCount": 920,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Astro"
         },
         {
@@ -642,8 +541,6 @@
           "link": "https://infrequently.org/2021/04/progress-delayed/",
           "publishedOn": "2021-05-05T16:51:23.000Z",
           "wordCount": 6686,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Progress Delayed Is Progress Denied"
         },
         {
@@ -652,9 +549,7 @@
           "description": "Let‘s take a quick stroll down memory-lane to revisit how vendor prefixing CSS properties came to be. I hope I don’t trigger PTSD for anyone!\nIt‘s not clear who started prefixing, or when it began exactly. What is clear, is &#8230;\nThe post Is Vendor Prefixing Dead? appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
           "link": "https://css-tricks.com/is-vendor-prefixing-dead/",
           "publishedOn": "2021-05-05T14:18:28.000Z",
-          "wordCount": 3101,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
+          "wordCount": 3140,
           "title": "Is Vendor Prefixing Dead?"
         },
         {
@@ -664,8 +559,6 @@
           "link": "https://css-tricks.com/16px-or-larger-text-prevents-ios-form-zoom/",
           "publishedOn": "2021-05-04T21:16:04.000Z",
           "wordCount": 676,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "16px or Larger Text Prevents iOS Form Zoom"
         },
         {
@@ -675,8 +568,6 @@
           "link": "https://css-tricks.com/jetpack-backup-roll-back-your-woocommerce-site-without-losing-orders/",
           "publishedOn": "2021-05-04T21:15:57.000Z",
           "wordCount": 450,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Jetpack Backup: Roll Back Your WooCommerce Site Without Losing Orders"
         },
         {
@@ -686,8 +577,6 @@
           "link": "https://css-tricks.com/lets-use-x-x-x-x-for-talking-about-specificity/",
           "publishedOn": "2021-05-04T14:19:55.000Z",
           "wordCount": 970,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Let’s use (X, X, X, X) for talking about specificity"
         },
         {
@@ -697,8 +586,6 @@
           "link": "https://www.kirupa.com/html5/creating_colorful_smart_shadows.htm",
           "publishedOn": "2021-05-04T14:19:48.000Z",
           "wordCount": 1276,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Creating Colorful, Smart Shadows"
         },
         {
@@ -708,26 +595,24 @@
           "link": "https://css-tricks.com/chapter-8-css/",
           "publishedOn": "2021-05-03T21:52:08.000Z",
           "wordCount": 6672,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
           "title": "Chapter 8: CSS"
-        },
-        {
-          "id": "https://css-tricks.com/?p=339384",
-          "author": "Chris Coyier",
-          "description": "I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;\nThe post Swipey Image Grids appeared first on CSS-Tricks.\nYou can support CSS-Tricks by being an MVP Supporter.",
-          "link": "https://www.cassie.codes/posts/swipey-image-grids/",
-          "publishedOn": "2021-05-03T14:35:07.000Z",
-          "wordCount": 908,
-          "sourceHref": "https://css-tricks.com/feed/",
-          "sourceTitle": "CSS-Tricks",
-          "title": "Swipey Image Grids"
         }
       ]
     },
     {
-      "href": "https://www.smashingmagazine.com/feed/",
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
+        {
+          "id": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "author": "hello@smashingmagazine.com (Jhey Tompkins)",
+          "description": "Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!",
+          "link": "https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/",
+          "publishedOn": "2021-05-10T11:00:00.000Z",
+          "wordCount": 6310,
+          "title": "Get Started With React By Building A Whac-A-Mole Game"
+        },
         {
           "id": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "author": "hello@smashingmagazine.com (Valeriia Panina)",
@@ -735,8 +620,6 @@
           "link": "https://smashingmagazine.com/2021/05/product-records-organization-collaboration-best-practices/",
           "publishedOn": "2021-05-07T10:00:00.000Z",
           "wordCount": 4127,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Organize Product-Related Assets And Collaborate Better"
         },
         {
@@ -746,8 +629,6 @@
           "link": "https://smashingmagazine.com/2021/05/improving-performance-shopify-themes-case-study/",
           "publishedOn": "2021-05-06T11:00:00.000Z",
           "wordCount": 2617,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Improving The Performance Of Shopify Themes (Case Study)"
         },
         {
@@ -757,8 +638,6 @@
           "link": "https://smashingmagazine.com/2021/05/reduce-data-sent-client-nextjs/",
           "publishedOn": "2021-05-05T10:30:00.000Z",
           "wordCount": 2296,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Reducing HTML Payload With Next.js (Case Study)"
         },
         {
@@ -768,8 +647,6 @@
           "link": "https://smashingmagazine.com/2021/05/undoing-mistakes-git-part1/",
           "publishedOn": "2021-05-04T14:30:00.000Z",
           "wordCount": 1791,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Undoing Mistakes With Git"
         },
         {
@@ -779,8 +656,6 @@
           "link": "https://smashingmagazine.com/2021/05/smashing-podcast-episode-36/",
           "publishedOn": "2021-05-04T05:00:00.000Z",
           "wordCount": 6993,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Smashing Podcast Episode 36 With Miriam Suzanne: What Is The Future Of CSS?"
         },
         {
@@ -790,8 +665,6 @@
           "link": "https://smashingmagazine.com/2021/05/evolution-jamstack/",
           "publishedOn": "2021-05-03T07:00:00.000Z",
           "wordCount": 2141,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Evolution Of Jamstack"
         },
         {
@@ -801,8 +674,6 @@
           "link": "https://smashingmagazine.com/2021/04/desktop-wallpaper-calendars-may-2021/",
           "publishedOn": "2021-04-30T09:00:00.000Z",
           "wordCount": 2139,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "May Is In The Air (2021 Wallpapers Edition)"
         },
         {
@@ -812,8 +683,6 @@
           "link": "https://smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
           "publishedOn": "2021-04-29T12:15:00.000Z",
           "wordCount": 5325,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "The Humble `<img>` Element And Core Web Vitals"
         },
         {
@@ -823,8 +692,6 @@
           "link": "https://smashingmagazine.com/2021/04/image-optimization-pre-release/",
           "publishedOn": "2021-04-28T13:20:00.000Z",
           "wordCount": 2130,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Meet Image Optimization, A New Smashing Book By Addy Osmani"
         },
         {
@@ -834,8 +701,6 @@
           "link": "https://smashingmagazine.com/2021/04/easing-functions-css-animations-transitions/",
           "publishedOn": "2021-04-27T12:00:00.000Z",
           "wordCount": 2623,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Understanding Easing Functions For CSS Animations And Transitions"
         },
         {
@@ -845,8 +710,6 @@
           "link": "https://smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/",
           "publishedOn": "2021-04-26T11:00:00.000Z",
           "wordCount": 3279,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Bake Layers Of Accessibility Testing Into Your Process"
         },
         {
@@ -856,8 +719,6 @@
           "link": "https://smashingmagazine.com/2021/04/guide-supported-modern-css-pseudo-class-selectors/",
           "publishedOn": "2021-04-23T08:30:00.000Z",
           "wordCount": 2431,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Guide To Newly Supported, Modern CSS Pseudo-Class Selectors"
         },
         {
@@ -867,8 +728,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-done-well-part1/",
           "publishedOn": "2021-04-22T14:00:00.000Z",
           "wordCount": 1764,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Web Design Done Well: The Ordinary Made Extraordinary (Part 1)"
         },
         {
@@ -878,8 +737,6 @@
           "link": "https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/",
           "publishedOn": "2021-04-21T13:55:00.000Z",
           "wordCount": 1929,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To Incremental Static Regeneration (ISR) With Next.js"
         },
         {
@@ -889,8 +746,6 @@
           "link": "https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/",
           "publishedOn": "2021-04-21T08:30:00.000Z",
           "wordCount": 2998,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Why Content Is Such A Fundamental Part Of The Web Design Process"
         },
         {
@@ -900,8 +755,6 @@
           "link": "https://smashingmagazine.com/2021/04/making-graphql-work-in-wordpress/",
           "publishedOn": "2021-04-20T09:00:00.000Z",
           "wordCount": 3482,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Making GraphQL Work In WordPress"
         },
         {
@@ -911,8 +764,6 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals/",
           "publishedOn": "2021-04-19T08:30:00.000Z",
           "wordCount": 7206,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "An In-Depth Guide To Measuring Core Web Vitals"
         },
         {
@@ -922,8 +773,6 @@
           "link": "https://smashingmagazine.com/2021/04/mistakes-technical-interviews/",
           "publishedOn": "2021-04-16T09:00:00.000Z",
           "wordCount": 2912,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Seven Mistakes To Avoid In Your Technical Interviews"
         },
         {
@@ -933,8 +782,6 @@
           "link": "https://smashingmagazine.com/2021/04/web-design-clients-fast-part2/",
           "publishedOn": "2021-04-15T11:00:00.000Z",
           "wordCount": 3522,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "How To Get Web Design Clients Fast (Part 2)"
         },
         {
@@ -944,8 +791,6 @@
           "link": "https://smashingmagazine.com/2021/04/from-cats-with-love-navigation-guides-workshops/",
           "publishedOn": "2021-04-15T10:30:00.000Z",
           "wordCount": 967,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "From Cats With Love: New Navigation, Guides And Workshops"
         },
         {
@@ -955,8 +800,6 @@
           "link": "https://smashingmagazine.com/2021/04/css-overflow-issues/",
           "publishedOn": "2021-04-14T11:00:00.000Z",
           "wordCount": 1917,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Overflow Issues In CSS"
         },
         {
@@ -966,8 +809,6 @@
           "link": "https://smashingmagazine.com/2021/04/building-video-streaming-app-nuxtjs-node-express/",
           "publishedOn": "2021-04-13T14:00:00.000Z",
           "wordCount": 3154,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "Building A Video Streaming App With Nuxt.js, Node And Express"
         },
         {
@@ -977,15 +818,24 @@
           "link": "https://smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/",
           "publishedOn": "2021-04-12T12:30:00.000Z",
           "wordCount": 3142,
-          "sourceHref": "https://www.smashingmagazine.com/feed/",
-          "sourceTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
           "title": "A Complete Guide To HTML Email"
         }
       ]
     },
     {
-      "href": "https://www.freecodecamp.org/news/rss/",
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news",
       "articles": [
+        {
+          "id": "60953e202cd0545b5e943a8b",
+          "author": "",
+          "description": "Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you",
+          "link": "https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/",
+          "publishedOn": "2021-05-10T17:04:31.000Z",
+          "wordCount": 1254,
+          "title": "How to Ace Your Coding Interview – Advice from a Senior Software Engineer"
+        },
         {
           "id": "609558382cd0545b5e943c6f",
           "author": "",
@@ -993,8 +843,6 @@
           "link": "https://www.freecodecamp.org/news/machine-learning-systems-book-recommendations/",
           "publishedOn": "2021-05-07T21:07:57.000Z",
           "wordCount": 1065,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems"
         },
         {
@@ -1004,8 +852,6 @@
           "link": "https://www.freecodecamp.org/news/recursion-doesnt-have-to-be-scary/",
           "publishedOn": "2021-05-07T16:59:53.000Z",
           "wordCount": 1278,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Recursion Might Seem Scary – But it Doesn&#x27;t Have to Be"
         },
         {
@@ -1015,8 +861,6 @@
           "link": "https://www.freecodecamp.org/news/what-is-lifting-state-up-in-react/",
           "publishedOn": "2021-05-06T21:41:34.000Z",
           "wordCount": 1349,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "What Is &quot;Lifting State Up&quot; in React?"
         },
         {
@@ -1026,8 +870,6 @@
           "link": "https://www.freecodecamp.org/news/learn-how-to-use-the-chrome-devtools-to-troubleshoot-websites/",
           "publishedOn": "2021-05-06T16:26:08.000Z",
           "wordCount": 426,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Learn How to Use the Chrome DevTools to Troubleshoot Websites"
         },
         {
@@ -1037,8 +879,6 @@
           "link": "https://www.freecodecamp.org/news/optional-types-in-swift/",
           "publishedOn": "2021-05-06T16:06:35.000Z",
           "wordCount": 1775,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Optional Types in Swift – How to Use and Unwrap Optionals"
         },
         {
@@ -1048,8 +888,6 @@
           "link": "https://www.freecodecamp.org/news/create-computer-vision-apps-in-the-cloud-with-opencv-and-python/",
           "publishedOn": "2021-05-05T21:11:40.000Z",
           "wordCount": 352,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Python and OpenCV Course –Create Computer Vision Apps in the Cloud"
         },
         {
@@ -1059,8 +897,6 @@
           "link": "https://www.freecodecamp.org/news/node-js-async-await-tutorial-with-asynchronous-javascript-examples/",
           "publishedOn": "2021-05-04T16:07:17.000Z",
           "wordCount": 2241,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Node.js Async Await Tutorial – With Asynchronous JavaScript Examples"
         },
         {
@@ -1070,8 +906,6 @@
           "link": "https://www.freecodecamp.org/news/copy-a-directory-in-linux-how-to-cp-a-folder-in-the-command-line-in-linux-and-unix-macos/",
           "publishedOn": "2021-05-04T15:33:12.000Z",
           "wordCount": 1018,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "Copy a Directory in Linux – How to cp a Folder in the Command Line in Linux and Unix (MacOS)"
         },
         {
@@ -1081,23 +915,10 @@
           "link": "https://www.freecodecamp.org/news/5-ways-to-fetch-data-react-graphql/",
           "publishedOn": "2021-05-03T17:20:56.000Z",
           "wordCount": 2501,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
           "title": "How to Fetch Data in React from a GraphQL API"
-        },
-        {
-          "id": "608f553c8eb3fb07cf099da7",
-          "author": "",
-          "description": "In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This",
-          "link": "https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/",
-          "publishedOn": "2021-05-03T16:40:08.000Z",
-          "wordCount": 1164,
-          "sourceHref": "https://www.freecodecamp.org/news/rss/",
-          "sourceTitle": "freeCodeCamp.org",
-          "title": "Common Mistakes React Developers Make – And How to Fix Them"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }

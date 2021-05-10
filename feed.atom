@@ -1,10 +1,112 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-05-10T00:57:24.074Z</id>
+    <id>urn:2021-05-10T18:01:37.839Z</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:57:24.074Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-10T18:01:37.839Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Building a full-text search engine in 150 lines of Python code]]></title>
+        <id>changelog.com/news/M5MG</id>
+        <link href="https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/"/>
+        <updated>2021-05-10T17:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A nice primer on the many aspects of building full-text search, such as: data preparation, indexing, searching, term frequency, and computing relevance. It’s amazing what 150 lines of code can get done…
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Ace Your Coding Interview – Advice from a Senior Software Engineer]]></title>
+        <id>60953e202cd0545b5e943a8b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-acing-your-coding-interview-advice-from-senior-software-engineer/"/>
+        <updated>2021-05-10T17:04:31.000Z</updated>
+        <summary type="html"><![CDATA[Technical interviews are one of the most stressful parts of landing a job in tech.  You don't know what questions the interviewer is going to ask. What if you have no idea how to solve the problem in front of you? What if you freeze up and look like you]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What happens when you pair all day, most days, for years?]]></title>
+        <id>changelog.com/news/r59o</id>
+        <link href="https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/"/>
+        <updated>2021-05-10T16:37:50.000Z</updated>
+        <summary type="html"><![CDATA[There are obvious upsides to pair programming. This post from Nat Bennett shares both the ups and the downs of pairing all day for years…
+So I paired all day, most days, for about five years. This had a lot of upsides, far more than I can list here. There’s a standard list of benefits and drawbacks to pairing that you might be familiar with, but the impact of pairing, especially pairing that much, goes much deeper than its impact on the code, on the particular work the team delivers that week.
+Nat goes on t…]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀 KubeCon + CloudNativeCon Europe 2021]]></title>
+        <id>changelog.com/posts/2497</id>
+        <link href="https://changelog.com/posts/kubecon-cloudnativecon-europe-2021"/>
+        <updated>2021-05-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AMA Happy Hour with Priyanka Sharma 
+
+Ad-hoc conversations with you Carlos, Chico, Katie, Rahul &amp; Silviu were my favourite. They would not have happened was it not for your Happy Hour sessions Priyanka. And what would brilliant ideas be without your hard work Colleen &amp; Kristi, and the rest of your teams?
+I really appreciate how well this event came together. The virtual platform and diversity played a big part in this world-class experience. This was the perfect one to Ship It!, a brand new Changelo…]]></summary>
+        <author>
+            <name>Gerhard Lazu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The excitement of making things real]]></title>
+        <id>changelog.com/news/OoQm</id>
+        <link href="https://sul.im/blog/excitement-of-making/"/>
+        <updated>2021-05-10T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[After working as a software engineer for 20 years, it’s still exciting to see how the results of your work become alive and you still feel yourself as a kid at that moment :)
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Alexander Sulim</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide to managing founder stress]]></title>
+        <id>changelog.com/news/a3wR</id>
+        <link href="https://stripe.com/atlas/guides/founder-stress"/>
+        <updated>2021-05-10T15:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Stripe Atlas has a wide array of guides to running an internet business that are totally open and free for everyone. This guide, written by Dr. Sherry Walling (a clinical psychologist), on “managing founder stress” covers everything from running smart (not just hard), coping with chronic stress, mastering the ups and downs, and a reminder that as a founder you are not alone.
+If you like this guide, then you’ll probably be a fan of my podcast Founders Talk too.
+Discuss on Changelog News]]></summary>
+        <author>
+            <name>Adam Stacoviak</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal]]></title>
+        <id>https://css-tricks.com/?p=339203</id>
+        <link href="https://css-tricks.com/variable-aspect-ratio-card-with-conic-gradients-meeting-along-the-diagonal/"/>
+        <updated>2021-05-10T14:13:12.000Z</updated>
+        <summary type="html"><![CDATA[I recently came across an interesting problem. I had to implement a grid of cards with a variable (user-set) aspect ratio that was stored in a --ratio custom property. Boxes with a certain aspect ratio are a classic problem in &#8230;
+The post Variable Aspect Ratio Card With Conic Gradients Meeting Along the Diagonal appeared first on CSS-Tricks.
+You can support CSS-Tricks by being an MVP Supporter.]]></summary>
+        <author>
+            <name>Ana Tudor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[google/zx – a tool for writing better scripts]]></title>
+        <id>changelog.com/news/PoJ7</id>
+        <link href="https://github.com/google/zx"/>
+        <updated>2021-05-10T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Bash is great, but when it comes to writing scripts, people usually choose a more convenient programming language. JavaScript is a perfect choice, but standard Node.js library requires additional hassle before using. zx package provides useful wrappers around child_process, escapes arguments and gives sensible defaults.
+I wouldn’t say JavaScript is a perfect choice for this kind of scripting, but it’s definitely a suitable one (especially if it’s the language you already know well). Here’s what scripting lo…]]></summary>
+        <author>
+            <name>Jerod Santo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Started With React By Building A Whac-A-Mole Game]]></title>
+        <id>https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/</id>
+        <link href="https://smashingmagazine.com/2021/05/get-started-whac-a-mole-react-game/"/>
+        <updated>2021-05-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Want to get started with React but struggling to find a good place to start? This article should have you covered. We’ll focus on some of the main concepts of React and then we’ll be building a game from scratch!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Jhey Tompkins)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Machine Learning Systems Book Recommendations – Learn How to Build and Understand ML Systems]]></title>
         <id>609558382cd0545b5e943c6f</id>
@@ -482,16 +584,6 @@ You can support CSS-Tricks by being an MVP Supporter.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Common Mistakes React Developers Make – And How to Fix Them]]></title>
-        <id>608f553c8eb3fb07cf099da7</id>
-        <link href="https://www.freecodecamp.org/news/common-mistakes-react-developers-make-and-how-to-fix-them/"/>
-        <updated>2021-05-03T16:40:08.000Z</updated>
-        <summary type="html"><![CDATA[In this article, we'll see some of the common mistakes that React developers make, and how you can avoid them. So let's get started. Don't Forget that Every Route Change Mounts and Unmounts a ComponentWhenever you're using routing in a React application, you declare routes inside the Switch component. This]]></summary>
-        <author>
-            <name/>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Clarity on Rails' governance]]></title>
         <id>changelog.com/news/VR4e</id>
         <link href="https://weblog.rubyonrails.org/2021/5/2/rails-governance/"/>
@@ -536,18 +628,6 @@ Widely-respected security expert Dan Kaminsky passed away on April 23 from diabe
 I met Dan very briefly at ShmooCon back in 2004. His kindness was memorable, for sure, but the thing I remember most was just how larger-than-life he was to me at the time. The guy contributed so much to the infosec community and yet remained humble and kind despite it all. It was s…]]></summary>
         <author>
             <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swipey Image Grids]]></title>
-        <id>https://css-tricks.com/?p=339384</id>
-        <link href="https://www.cassie.codes/posts/swipey-image-grids/"/>
-        <updated>2021-05-03T14:35:07.000Z</updated>
-        <summary type="html"><![CDATA[I hope people think of SVG as a vector format that is good for drawing things. There is plenty more to know, but here&#8217;s one more: SVG is good for composition. You draw things at very specific coordinates &#8230;
-The post Swipey Image Grids appeared first on CSS-Tricks.
-You can support CSS-Tricks by being an MVP Supporter.]]></summary>
-        <author>
-            <name>Chris Coyier</name>
         </author>
     </entry>
     <entry>
@@ -964,55 +1044,6 @@ Discuss on Changelog News]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A tool to spy on your DNS queries]]></title>
-        <id>changelog.com/news/NoYb</id>
-        <link href="https://jvns.ca/blog/2021/03/31/dnspeep-tool/"/>
-        <updated>2021-04-22T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[You can think of Julia Evans’ new dnspeep tool as similar to tcpdump but specifically for watching your machine’s DNS queries.
-One thing I like about this tool is that it gives me a sense for what programs on my computer are using the Internet! For example, I found out that something on my computer is making requests to ping.manjaro.org from time to time for some reason, probably to check I’m connected to the internet.
-A friend of mine actually discovered using this tool that he had some corporate monitorin…]]></summary>
-        <author>
-            <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An algorithmic human-computer techno jam]]></title>
-        <id>changelog.com/news/r5YZ</id>
-        <link href="https://github.com/vitling/acid-banger"/>
-        <updated>2021-04-21T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The music you hear is generated in your browser by a randomised algorithm, below you can see the notes and parameters that are currently in use. You can also interact with various parameters and buttons manually. The green autopilot switches change how automatic playback is. Leave them on for a lean-back experience. Buttons labelled ⟳ will generate new patterns. Source Code is on GitHub.
-Bangin’
-
-Discuss on Changelog News]]></summary>
-        <author>
-            <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Releasing The GraphQL Guide]]></title>
-        <id>changelog.com/news/zO9V</id>
-        <link href="https://blog.graphql.guide/releasing-the-graphql-guide-d9be04747148?source=friends_link&amp;sk=425e4952c1fbf88f1fcb538d726344a3"/>
-        <updated>2021-04-21T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[John Resig and Loren Sands-Ramshaw first announced the beta of their GraphQL book (discussed here) nearly three years ago. After years of writing and re-writing, it’s now ready to be released. Loren had this to say in the linked announcement post:
-This project has taken much longer than we expected, and the length of the book has wound up being much longer than we expected. We’d like to give a huge shout-out to our 740 beta readers who stuck with us through four major versions of the in-progress text.
-The G…]]></summary>
-        <author>
-            <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting into FAANG as a junior developer]]></title>
-        <id>changelog.com/news/pXO3</id>
-        <link href="https://cvcompiler.com/blog/getting-into-faang-as-an-aspiring-developer/"/>
-        <updated>2021-04-21T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Lily Cook:
-In this article, I will talk about trending tech skills in 2021 that may help trainees or junior developers secure their desired position at FAANG. I will also uncover some tips for successful interviewing at the Big Five tech giants and reveal whether a cover letter can assist you in your FAANG job search. Let’s dive in.
-Discuss on Changelog News]]></summary>
-        <author>
-            <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Complete Guide To Incremental Static Regeneration (ISR) With Next.js]]></title>
         <id>https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/</id>
         <link href="https://smashingmagazine.com/2021/04/incremental-static-regeneration-nextjs/"/>
@@ -1023,17 +1054,6 @@ Discuss on Changelog News]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A deep dive on CORS]]></title>
-        <id>changelog.com/news/boje</id>
-        <link href="https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/"/>
-        <updated>2021-04-21T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Learn the history and evolution of same-origin policy and CORS, understand CORS and the different types of cross-origin access in depth, and learn (some) best practices.
-Discuss on Changelog News]]></summary>
-        <author>
-            <name>Jerod Santo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why Content Is Such A Fundamental Part Of The Web Design Process]]></title>
         <id>https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/</id>
         <link href="https://smashingmagazine.com/2021/04/content-fundamental-part-web-design-process/"/>
@@ -1041,18 +1061,6 @@ Discuss on Changelog News]]></summary>
         <summary type="html"><![CDATA[As designers, we are often burdened by the responsibility of producing and managing website content. It’s not our job to write it, but it’s not the client’s either. We can avert disaster by including content production in the design process.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Matt Saunders)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana, Loki, and Tempo will be relicensed to AGPLv3]]></title>
-        <id>changelog.com/news/a3Yp</id>
-        <link href="https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/"/>
-        <updated>2021-04-20T19:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Raj Dutt, CEO and co-founder of Grafana Labs:
-Our company has always tried to balance the “value creation” of open source and community with the “value capture” of our monetization strategy. The choice of license is a key pillar of this strategy, and is something that we’ve deliberated on extensively since the company began.
-Over the last few years, we’ve watched closely as almost every at-scale open source company that we admire (such as Elastic, Redis Labs, MongoDB, Timescale, Cockroach Labs, and many oth…]]></summary>
-        <author>
-            <name>Jerod Santo</name>
         </author>
     </entry>
     <entry>
